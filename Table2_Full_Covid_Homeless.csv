@@ -1,0 +1,33 @@
+Characteristic,Total Patients,PEH (%),Not PEH (%)
+Shelter Status,,,
+Sheltered,3321,62.1,0
+Unsheltered,1129,21.1,0
+Unknown,901,16.8,0
+Age Group,,,
+Under 18,336,6.3,14.6
+18-24,437,8.2,11.1
+25-29,473,8.8,11
+30-39,1101,20.6,20.9
+40-49,903,16.9,14
+50-59,1128,21.1,13.3
+60-64,499,9.3,6
+65+,474,8.9,9.1
+Race/Ethnicity,,,
+American Indian/Alaska Native,34,0.6,0.3
+Asian,64,1.2,0.9
+Black or African American,1696,31.7,23.1
+Hispanic/Latinx,2099,39.2,40.1
+Native Hawaiian or Pacific Islander,16,0.3,0.3
+White,948,17.7,10
+Other,233,4.4,7.6
+Unknown,261,4.9,17.7
+Sex/Gender,,,
+Male,3394,63.4,51.4
+Female,1888,35.3,46.5
+Transgender Male,,,
+Transgender Female,18,0.3,
+Unknown,50,0.9,2
+Outbreak Association,,,
+Associated with an Outbreak,2444,45.7,2.3
+Deaths,,,
+COVID-19 Deaths,100,1.9,2.5
